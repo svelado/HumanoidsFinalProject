@@ -12,7 +12,7 @@ mobile_arm : The ROS Package (would go in /src) that contains the launch file th
 ## How to Run
 Install: V-REP, ROS, ROS /joy
 
-Step 1: Make ROS package \newline
+Step 1: Make ROS package 
 
 
 Step 2: Add mobile_robot to /src
