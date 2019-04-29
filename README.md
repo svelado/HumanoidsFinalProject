@@ -1,5 +1,8 @@
 # Humanoids Final Project
 
+My final project for the 16-264 Humanoids for Mr. Atkeson's class
+
+
 ## V-REP 
 mobile_robot.lua : The Lua script that runs on the simulation model
 
